@@ -18,5 +18,9 @@
     "rgbcolor.js",
     "StackBlur.js",
     "MIT-LICENSE.txt"
-  ]
+  ],
+  "browser": {
+    "rgbcolor": "rgbcolor.js",
+    "stackblur": "StackBlur.js"
+  }
 }
