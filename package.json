@@ -20,7 +20,7 @@
     "MIT-LICENSE.txt"
   ],
   "browser": {
-    "rgbcolor": "rgbcolor.js",
-    "stackblur": "StackBlur.js"
+    "rgbcolor": "./rgbcolor.js",
+    "stackblur": "./StackBlur.js"
   }
 }
